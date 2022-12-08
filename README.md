@@ -21,7 +21,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/LRMTE1986/LRMTE1986/blob/main/blocks.svg?raw=true" width="400" height="280" />
   
 **Languages and Tools:**  
 
